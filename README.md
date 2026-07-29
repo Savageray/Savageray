@@ -12,9 +12,10 @@
 
 <p align="center">
   <a href="https://rayedgekenya.co.ke">Website</a> ·
-  <a href="https://linkedin.com/in/your-profile">LinkedIn</a> ·
+  <a href="https://linkedin.com/in/ryan-jesse-74602832a">LinkedIn</a> ·
   <a href="https://instagram.com/rayedgekenya">Instagram</a> ·
-  <a href="https://twitter.com/your-profile">Twitter</a> ·
+  <a href="https://x.com/RayEdgeKenya">Twitter/X</a> ·
+  <a href="https://facebook.com/profile.php?id=61566681795861">Facebook</a> ·
   <a href="mailto:rayedgekenya@gmail.com">Email</a>
 </p>
 
@@ -66,9 +67,10 @@ Git · GitHub · Vercel · VS Code
 
 - Website: [rayedgekenya.co.ke](https://rayedgekenya.co.ke)
 - Email: [rayedgekenya@gmail.com](mailto:rayedgekenya@gmail.com)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- Instagram: [@rayedgekenya](https://instagram.com/rayedgekenya)
-- Twitter: [@your-profile](https://twitter.com/your-profile)
+- LinkedIn: [linkedin.com/in/ryan-jesse-74602832a](https://linkedin.com/in/ryan-jesse-74602832a)
+- Instagram: [instagram.com/rayedgekenya](https://instagram.com/rayedgekenya)
+- Twitter/X: [x.com/RayEdgeKenya](https://x.com/RayEdgeKenya)
+- Facebook: [facebook.com/profile.php?id=61566681795861](https://facebook.com/profile.php?id=61566681795861)
 
 ---
 
